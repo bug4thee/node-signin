@@ -33,7 +33,7 @@ class UnicomSign {
 
 const headers = {
   "user-agent":
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 unicom{version:iphone_c@11.0602}",
+    "Mozilla/5.0 (Linux; Android 16; PLC110 Build/BP2A.250605.015; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.94 Mobile Safari/537.36; unicom{version:android@12.0800,desmobile:0};devicetype{deviceBrand:OnePlus,deviceModel:PLC110};OSVersion/16;ltst;",
   referer: "https://img.client.10010.com",
   origin: "https://img.client.10010.com",
   "content-type": "application/x-www-form-urlencoded",
